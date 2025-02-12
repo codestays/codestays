@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Ernest 👋
 
-I'm a Software Developer passionate about full-stack web development and system integration. Skilled in building back-end and front-end application through personal projects and team projects.
+I'm a Software Developer passionate about full-stack web development and system integration. Skilled in building back-end and front-end application through personal projects, team projects and freelance projects. Eager to apply problem-solving skills and creativity to real-world challenges while growing technically.
 
 - 🔭 I'm currently building a web application for a client to showcase their products and services while facilitating direct connections with their customer base. The platform aims to streamline client engagement and enhance online visibility for their business.
 
